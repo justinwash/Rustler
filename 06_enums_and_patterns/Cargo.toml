@@ -1,0 +1,7 @@
+[package]
+name = "enums_and_patterns"
+version = "0.1.0"
+authors = ["ec2-user"]
+edition = "2018"
+
+[dependencies]
